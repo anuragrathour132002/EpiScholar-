@@ -1,9 +1,4 @@
 
-## Prerequisites
-
-- Node.js (https://nodejs.org/)
-- Python (https://www.python.org/)
-
 ## Setup
 
 ### Backend
