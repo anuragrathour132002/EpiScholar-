@@ -50,34 +50,9 @@
 
     The frontend server will start on `http://localhost:3000`.
 
-### Data Extraction
 
-1. Navigate to the data_extraction directory:
 
-    ```bash
-    cd data_extraction
-    ```
 
-2. Create and activate a virtual environment:
-
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    ```
-
-3. Install the required Python packages:
-
-    ```bash
-    pip install pandas openpyxl
-    ```
-
-4. Run the data extraction script:
-
-    ```bash
-    python data_extraction.py
-    ```
-
-    This will generate `extracted_data.json` which will be used by the backend.
 
 ## Usage
 
